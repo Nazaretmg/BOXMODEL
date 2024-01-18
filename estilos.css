@@ -1,0 +1,52 @@
+.contenedor{
+	background-color: #32a2a8;
+}
+
+.caja1{
+	background-color: #32a885;
+}
+
+.caja2{
+	background-color: #a84c32;
+}
+
+.caja3{
+	background-color: #8ba832;
+}
+
+/*.borde{
+	border: 2px solid black;
+}*/
+
+.margen{
+	margin: 10px;
+
+}
+
+button{
+	padding: 10px;
+	margin-bottom: 20px !important;
+}
+
+.relleno{
+	padding: 10px;
+}
+
+button.caja2{
+	padding-top: 20px;
+}
+
+button.caja3{
+	padding: 0px 15px 0px 15px;
+
+}
+
+div.caja1,div.caja2,div.caja3{
+	border-bottom: 4px solid black;
+}
+
+div.contenedor{
+	padding: 15px;
+	margin-bottom: 10px;
+}
+
